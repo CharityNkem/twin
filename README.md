@@ -5,7 +5,7 @@ career, background, skills, and experience, and it answers in character — draw
 my LinkedIn profile and a personal summary. If it doesn't know an answer, or a visitor
 wants to get in touch, it records the details for follow-up.
 
-**Live demo:** <!--(https://twin-txjc.onrender.com/>
+**Live demo:** https://twin-txjc.onrender.com/
 
 ## What it does
 
